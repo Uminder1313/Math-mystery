@@ -211,7 +211,7 @@ margin-top: 50px;
 .layer{
     width: 100%;
     height:-5;
-    background: linear-gradient(rgba(0,0,0,0.6), #ff004f);
+    background: linear-gradient(rgba(0,0,0,0.6), #00c8ff);
     border-radius: 10px;
     position: absolute;
     left: 0;
@@ -231,7 +231,7 @@ margin-top: 50px;
 }
 .layer a{
     margin-top: 20px;
-    color: #ff004f;
+    color: #00c8ff;
     text-decoration: none;
     font-size: 18px;
     line-height: 60px;
