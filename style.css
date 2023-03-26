@@ -205,12 +205,12 @@ margin-top: 50px;
     width: 100%;
     border-radius: 10px;
     display:block;
-    transition: transform 0.5s;
+    transition: transform 2s;
 }
 
 .layer{
     width: 100%;
-    height:-5;
+    height:-5px;
     background: linear-gradient(rgba(0,0,0,0.6), #00c8ff);
     border-radius: 10px;
     position: absolute;
